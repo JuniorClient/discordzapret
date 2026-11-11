@@ -1,0 +1,7 @@
+# Discord Zapret — JuniorClient
+
+Страница проекта JuniorClient/discordzapret. Репозиторий, документация, опубликованные релизы и подготовка к проверке подключения Discord.
+
+Сайт: https://juniorclient.github.io/discordzapret/
+Репозиторий: https://github.com/JuniorClient/discordzapret
+Релизы: https://github.com/JuniorClient/discordzapret/releases
